@@ -16,3 +16,7 @@ st.title('Q&A Session')
 
 # Display the filtered dataset
 st.dataframe(filtered_df)
+
+#when you run this app first run the steamApp.py Then enter the below command in the terminal.
+
+#streamlit run .\streamApp.py 
